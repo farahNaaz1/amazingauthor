@@ -1,0 +1,5 @@
+# Robots.txt for Author Bidisha (Bidisha Bhattacharyya) Official Website
+User-agent: *
+Allow: /
+
+Sitemap: https://bidishabhattaacharya.vercel.app/sitemap.xml
