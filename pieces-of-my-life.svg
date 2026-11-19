@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgPieces" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D232E"/>
+      <stop offset="50%" stop-color="#452C3C"/>
+      <stop offset="100%" stop-color="#1B131D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#bgPieces)"/>
+
+  <!-- Ornate Frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#C5A059" stroke-width="1.2" opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#FAF7F2" stroke-width="0.6" opacity="0.25"/>
+
+  <!-- Kintsugi Mosaic Art in Center: Broken porcelain mended with gold -->
+  <g transform="translate(300, 420)">
+    <!-- Mosaic pieces -->
+    <path d="M -70 -90 L 0 -130 L 70 -80 L 10 -10 Z" fill="#382837" stroke="#D4AF37" stroke-width="2.5"/>
+    <path d="M -80 -75 L 0 0 L -110 40 L -120 -30 Z" fill="#4B344A" stroke="#D4AF37" stroke-width="2.5"/>
+    <path d="M 15 -5 L 110 -65 L 120 40 L 10 30 Z" fill="#3D293B" stroke="#D4AF37" stroke-width="2.5"/>
+    <path d="M -100 55 L 0 10 L 0 120 L -80 110 Z" fill="#2E1F2C" stroke="#D4AF37" stroke-width="2.5"/>
+    <path d="M 15 45 L 115 55 L 80 125 L 10 120 Z" fill="#50374E" stroke="#D4AF37" stroke-width="2.5"/>
+    
+    <!-- Heart shape subtle overlay -->
+    <path d="M 0 -30 C -25 -70 -75 -60 -75 -20 C -75 30 0 75 0 95 C 0 75 75 30 75 -20 C 75 -60 25 -70 0 -30 Z" fill="none" stroke="#C5A059" stroke-width="1.5" stroke-dasharray="4,4" opacity="0.7"/>
+  </g>
+
+  <!-- Titles -->
+  <text x="300" y="120" font-family="'Cinzel', serif" font-size="12" letter-spacing="6" fill="#C5A059" text-anchor="middle">POEMS OF HURT, HOPE & HEALING</text>
+  <line x1="200" y1="135" x2="400" y2="135" stroke="#C5A059" stroke-width="0.8" opacity="0.6"/>
+
+  <text x="300" y="200" font-family="'Playfair Display', Georgia, serif" font-size="44" font-weight="800" fill="#FAF7F2" text-anchor="middle">Pieces Of My Life</text>
+  <text x="300" y="245" font-family="'Cinzel', serif" font-size="15" letter-spacing="4" fill="#D4AF37" text-anchor="middle">WORDS THAT CAN HEAL YOU</text>
+
+  <text x="300" y="680" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#E8DFC8" text-anchor="middle">“We mend not by erasing the cracks, but by gilding them.”</text>
+
+  <rect x="170" y="770" width="260" height="46" fill="#1C131D" rx="3" stroke="#C5A059" stroke-width="1.2"/>
+  <text x="300" y="799" font-family="'Cinzel', Georgia, serif" font-size="15" letter-spacing="4" fill="#FFFFFF" text-anchor="middle" font-weight="700">BIDISHA BHATTACHARYYA</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgLetters" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#261E1A"/>
+      <stop offset="60%" stop-color="#3B2E27"/>
+      <stop offset="100%" stop-color="#1B1410"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#bgLetters)"/>
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#C5A059" stroke-width="1.2" opacity="0.6"/>
+
+  <!-- Vintage Envelope & Wax Seal Motif -->
+  <g transform="translate(300, 420)">
+    <!-- Old Envelope back -->
+    <rect x="-100" y="-60" width="200" height="130" fill="#E8DEC8" rx="4" stroke="#C5A059" stroke-width="1.5"/>
+    <path d="M -100 -60 L 0 20 L 100 -60" stroke="#C5A059" stroke-width="1.5" fill="#DFD3B9"/>
+    <!-- Wax Seal -->
+    <circle cx="0" cy="20" r="24" fill="#7D2235" stroke="#C5A059" stroke-width="1.5"/>
+    <text x="0" y="28" font-family="'Cinzel', serif" font-size="20" fill="#FAF6F0" text-anchor="middle" font-weight="bold">B</text>
+  </g>
+
+  <text x="300" y="120" font-family="'Cinzel', serif" font-size="12" letter-spacing="6" fill="#C5A059" text-anchor="middle">POETRY & PROSE MUSINGS</text>
+  <line x1="200" y1="135" x2="400" y2="135" stroke="#C5A059" stroke-width="0.8" opacity="0.6"/>
+
+  <text x="300" y="200" font-family="'Playfair Display', Georgia, serif" font-size="44" font-weight="700" fill="#FAF7F2" text-anchor="middle">Letters And Nostalgia</text>
+  <text x="300" y="245" font-family="'Cinzel', serif" font-size="15" letter-spacing="4" fill="#D4AF37" text-anchor="middle">VINTAGE ECHOES OF THE HEART</text>
+
+  <text x="300" y="680" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#E8DFC8" text-anchor="middle">“What time forgot, the ink remembered.”</text>
+
+  <rect x="170" y="770" width="260" height="46" fill="#1C1511" rx="3" stroke="#C5A059" stroke-width="1.2"/>
+  <text x="300" y="799" font-family="'Cinzel', Georgia, serif" font-size="15" letter-spacing="4" fill="#FFFFFF" text-anchor="middle" font-weight="700">BIDISHA BHATTACHARYYA</text>
+</svg>

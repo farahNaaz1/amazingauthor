@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="deBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#192833"/>
+      <stop offset="60%" stop-color="#1e3e4a"/>
+      <stop offset="100%" stop-color="#0e171f"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#deBg)"/>
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#B49A68" stroke-width="1.5" stroke-opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#B49A68" stroke-width="0.75" stroke-opacity="0.3" stroke-dasharray="6,4"/>
+  <g fill="none" stroke="#8cb8c9" stroke-width="1" opacity="0.5">
+    <ellipse cx="300" cy="460" rx="90" ry="120"/>
+    <ellipse cx="300" cy="460" rx="120" ry="90"/>
+    <circle cx="300" cy="460" r="30" stroke="#B49A68"/>
+  </g>
+  <text x="300" y="115" font-family="'Cormorant Garamond', serif" font-size="14" letter-spacing="6" fill="#B49A68" text-anchor="middle">CONTEMPORARY ANTHOLOGY</text>
+  <text x="300" y="225" font-family="'Playfair Display', serif" font-size="44" font-style="italic" fill="#FAF2E9" text-anchor="middle" font-weight="700">Diurnal Extract</text>
+  <text x="300" y="270" font-family="'DM Sans', sans-serif" font-size="13" letter-spacing="4" fill="#B49A68" text-anchor="middle">DAILY ESSENCES OF THE HUMAN SPIRIT</text>
+  <text x="300" y="780" font-family="'Playfair Display', serif" font-size="16" letter-spacing="2" fill="#FAF2E9" text-anchor="middle">CO-AUTHORED BY BIDISHA BHATTACHARYYA</text>
+  <text x="300" y="805" font-family="'DM Sans', sans-serif" font-size="11" letter-spacing="2" fill="#B49A68" text-anchor="middle">COLLECTED ESSAYS &amp; SHORT STORIES</text>
+</svg>

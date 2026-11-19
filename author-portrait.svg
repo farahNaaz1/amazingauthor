@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="100%" height="100%">
+  <defs>
+    <linearGradient id="frameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF6F0"/>
+      <stop offset="60%" stop-color="#F2EAE0"/>
+      <stop offset="100%" stop-color="#E8DCCF"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D4AF37"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#9A783E"/>
+    </linearGradient>
+    <radialGradient id="portraitGlow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#EFE6DA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="750" fill="url(#frameGrad)"/>
+  <rect width="600" height="750" fill="url(#portraitGlow)"/>
+
+  <!-- Ornate Double Border -->
+  <rect x="25" y="25" width="550" height="700" fill="none" stroke="url(#goldGrad)" stroke-width="2"/>
+  <rect x="35" y="35" width="530" height="680" fill="none" stroke="#581825" stroke-width="1" stroke-dasharray="8,5" opacity="0.6"/>
+
+  <!-- Corner Flourishes -->
+  <path d="M 45 75 L 75 45 M 45 45 L 45 85 M 45 45 L 85 45" stroke="#C5A059" stroke-width="2" fill="none"/>
+  <path d="M 555 75 L 525 45 M 555 45 L 555 85 M 555 45 L 515 45" stroke="#C5A059" stroke-width="2" fill="none"/>
+  <path d="M 45 675 L 75 705 M 45 705 L 45 665 M 45 705 L 85 705" stroke="#C5A059" stroke-width="2" fill="none"/>
+  <path d="M 555 675 L 525 705 M 555 705 L 555 665 M 555 705 L 515 705" stroke="#C5A059" stroke-width="2" fill="none"/>
+
+  <!-- Arch Silhouette Frame -->
+  <g transform="translate(300, 310)">
+    <!-- Medallion Rim -->
+    <circle cx="0" cy="0" r="175" fill="#581825" stroke="url(#goldGrad)" stroke-width="4"/>
+    <circle cx="0" cy="0" r="165" fill="#FBF8F4" stroke="#D4AF37" stroke-width="1.5"/>
+
+    <!-- Subtle Book & Quill background watermark inside medallion -->
+    <path d="M -90 60 C -40 40 0 50 0 50 C 0 50 40 40 90 60 L 90 130 C 40 110 0 120 0 120 C 0 120 -40 110 -90 130 Z" fill="#E8DEC8" opacity="0.5"/>
+
+    <!-- Artistic Feminine Literary Silhouette -->
+    <!-- Head & neck -->
+    <ellipse cx="0" cy="-35" rx="42" ry="52" fill="#581825"/>
+    <!-- Elegant hair bun / flowing locks -->
+    <path d="M -42 -40 C -55 -85 20 -95 45 -55 C 55 -35 52 -10 40 10 C 25 30 15 40 -10 30 C -35 20 -45 -10 -42 -40 Z" fill="#3D0B17"/>
+    <circle cx="35" cy="-70" r="22" fill="#3D0B17"/>
+    <!-- Gold hairpin flourish -->
+    <path d="M 15 -85 L 55 -55" stroke="#D4AF37" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="15" cy="-85" r="4" fill="#D4AF37"/>
+    <!-- Shoulders / Shawl / Sari Drape -->
+    <path d="M -115 150 C -105 80 -60 30 0 35 C 60 30 105 80 115 150 Z" fill="#581825"/>
+    <!-- Elegant Golden Neck Torc / Border -->
+    <path d="M -25 25 Q 0 45 25 25" stroke="#D4AF37" stroke-width="2.5" fill="none"/>
+    <path d="M -80 150 Q -20 90 70 145" stroke="#D4AF37" stroke-width="2" fill="none" opacity="0.8"/>
+  </g>
+
+  <!-- Title / Placeholder Label Ribbon -->
+  <g transform="translate(300, 560)">
+    <rect x="-190" y="0" width="380" height="42" fill="#581825" rx="4" stroke="url(#goldGrad)" stroke-width="1.5"/>
+    <text x="0" y="27" font-family="'Cinzel', Georgia, serif" font-size="16" letter-spacing="4" fill="#FAF6F0" text-anchor="middle" font-weight="700">AUTHOR BIDISHA</text>
+  </g>
+
+  <!-- Supporting caption -->
+  <text x="300" y="630" font-family="'EB Garamond', Georgia, serif" font-size="18" font-style="italic" fill="#581825" text-anchor="middle">Bidisha Bhattacharyya</text>
+  <text x="300" y="655" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" letter-spacing="2" fill="#8C6B2D" text-anchor="middle" font-weight="600">INDEPENDENT AUTHOR & POET</text>
+  
+  <rect x="180" y="675" width="240" height="22" fill="#EAE0D3" rx="11"/>
+  <text x="300" y="690" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" letter-spacing="1" fill="#7D2235" text-anchor="middle" font-weight="600">PHOTO PLACEHOLDER • EDITABLE IN CMS</text>
+</svg>

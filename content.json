@@ -1,0 +1,921 @@
+{
+  "author": {
+    "name": "Bidisha Bhattacharyya",
+    "alternateSpelling": "Bidisha Bhattacharya",
+    "brandName": "AUTHOR BIDISHA",
+    "tagline": "Stories that linger long after the last page.",
+    "descriptor": "AUTHOR | POET | STORYTELLER",
+    "heroSupporting": "Welcome to the literary world of Bidisha Bhattacharyya, an independent author, poet and creative writer from West Bengal, India. Exploring horror, suspense, romance, poetry and the many emotions that make us human, her writing brings imagination and storytelling together.",
+    "location": "West Bengal, India",
+    "locationNote": "Earlier 2022 records cite Barrackpore, West Bengal (author confirmation recommended)",
+    "education": "BA (Hons) in English Literature & Postgraduate Diploma, Xavier Institute of Communications (XIC), Mumbai (Subject to final verification of completion years)",
+    "languages": ["Bengali", "English", "Hindi"],
+    "workingBio": "Bidisha Bhattacharyya is an independent author, fiction writer, poet and creative professional from West Bengal, India.\n\nHer literary interests span multiple genres, including horror, suspense, fantasy, romance, poetry, haiku, flash fiction and short stories.\n\nHer writing journey began through online platforms such as YourQuote and Wattpad. Following her Class 12 examinations, writing gradually developed into a stronger passion, encouraging her to explore different forms of creative expression.\n\nThrough reading, practice and creative learning, she developed an interest in storytelling across different formats.\n\nAlongside her literary work, Bidisha has explored professional writing, copywriting, blogging and promotional content.\n\nHer creative journey continues through books, literary contributions and professional projects.",
+    "writingJourney": "Her writing journey began through online platforms such as YourQuote and Wattpad. Following her Class 12 examinations, writing gradually developed into a stronger passion, encouraging her to explore different forms of creative expression. Through reading, practice and creative learning, she developed an interest in storytelling across different formats.",
+    "quote": "Writing is not merely about arranging words; it is about summoning the quiet shadows, unsaid desires, and haunting truths that echo in the human soul.",
+    "genres": ["Horror", "Suspense", "Romance", "Poetry", "Haiku", "Flash Fiction", "Short Stories", "Fiction"],
+    "portraitUrl": "assets/author-portrait.svg"
+  },
+  "writingPhilosophy": {
+    "heading": "Beyond Words, There Are Worlds.",
+    "text": "Every story begins with an idea. Every poem begins with a feeling. And every page creates an opportunity to see the world differently."
+  },
+  "bookOfTheMonth": {
+    "bookId": "whispers-in-the-water",
+    "badge": "Author Selection • Book of the Month",
+    "title": "Whispers In The Water",
+    "subtitle": "A Chilling Horror Story",
+    "genre": "Horror / Suspense",
+    "cover": "assets/covers/whispers-in-the-water.svg",
+    "description": "An atmospheric supernatural tale delving into eerie folklore, suppressed secrets, and the quiet chill when familiar waters turn ominous. One of Bidisha's most catalogued and discussed horror works.",
+    "publisher": "Notion Press XPress Publishing",
+    "formats": "Paperback & eBook",
+    "buyLink": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+    "buyLinkText": "Explore on Goodreads"
+  },
+  "featuredBooks": [
+    {
+      "id": "whispers-in-the-water",
+      "title": "Whispers In The Water",
+      "subtitle": "A Chilling Horror Story",
+      "genre": "Horror",
+      "genreCategory": "horror",
+      "cover": "assets/covers/whispers-in-the-water.svg",
+      "description": "An atmospheric horror narrative delving into eerie folklore, suppressed terror, and the quiet chill that settles when familiar landscapes turn menacing.",
+      "featuredTag": "Featured Horror"
+    },
+    {
+      "id": "the-girl-in-the-photo",
+      "title": "The Girl In The Photo",
+      "subtitle": "A Haunting Mystery Tale",
+      "genre": "Horror",
+      "genreCategory": "horror",
+      "cover": "assets/covers/the-girl-in-the-photo.svg",
+      "description": "A frozen frame preserves a smile, but what happens when the photograph remembers things you wished were forgotten? A dark psychological horror.",
+      "featuredTag": "Featured Mystery"
+    },
+    {
+      "id": "pieces-of-my-life",
+      "title": "Pieces Of My Life",
+      "subtitle": "Words That Can Heal You",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "cover": "assets/covers/pieces-of-my-life.svg",
+      "description": "An intimate tapestry of emotions, resilience, sorrow, and peace. Verses crafted as companions for those navigating life's turbulent seasons.",
+      "featuredTag": "Healing Poetry"
+    },
+    {
+      "id": "haiku-love",
+      "title": "Haiku Love: Lost In Thoughts",
+      "subtitle": "A Micro-Poetry Collection",
+      "genre": "Haiku / Poetry",
+      "genreCategory": "haiku",
+      "cover": "assets/covers/haiku-love.svg",
+      "description": "Delicate syllables capturing fleeting heartbeats, silent yearning, and the tender melancholy of unspoken love distilled into three rhythmic lines.",
+      "featuredTag": "Micro-Poetry"
+    }
+  ],
+  "books": [
+    {
+      "id": "whispers-in-the-water",
+      "title": "Whispers In The Water",
+      "subtitle": "A Chilling Horror Story",
+      "genre": "Horror",
+      "genreCategory": "horror",
+      "publisher": "Notion Press XPress Publishing",
+      "publishedYear": "Circa 2021-2022",
+      "isbn": "Pending Official Confirmation",
+      "formats": "Paperback & eBook",
+      "isVerified": true,
+      "verificationNote": "Featured in AbeBooks catalogue & Goodreads author page",
+      "description": "An atmospheric horror narrative delving into eerie folklore, suppressed terror, and the quiet chill that settles when familiar landscapes turn menacing.",
+      "synopsis": "When ancient rural secrets rise from stagnant monsoon waters, a tranquil village is gripped by an invisible dread. Whispers In The Water takes readers deep into the psychological corridors of supernatural fear, exploring guilt, vengeance, and the haunting truths people bury beneath calm surfaces.",
+      "cover": "assets/covers/whispers-in-the-water.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "the-girl-in-the-photo",
+      "title": "The Girl In The Photo",
+      "subtitle": "A Haunting Mystery Story",
+      "genre": "Horror",
+      "genreCategory": "horror",
+      "publisher": "Notion Press XPress Publishing",
+      "publishedYear": "Recorded in AbeBooks",
+      "isbn": "Pending Official Confirmation",
+      "formats": "Paperback & eBook",
+      "isVerified": true,
+      "verificationNote": "Documented in AbeBooks author repository",
+      "description": "A frozen frame preserves a smile, but what happens when the photograph remembers things you wished were forgotten? A dark psychological horror.",
+      "synopsis": "An old framed photograph retrieved from an ancestral estate begins to subtly shift its expression. As the boundaries between memory and reality fray, the photograph's watcher discovers that some moments are not captured to be remembered — they are imprisoned to protect the living.",
+      "cover": "assets/covers/the-girl-in-the-photo.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "pieces-of-my-life",
+      "title": "Pieces Of My Life",
+      "subtitle": "Words That Can Heal You",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Catalogued Listing",
+      "publishedYear": "Catalogued (Record: 23 Dec 2025)",
+      "isbn": "Pending Official Confirmation",
+      "formats": "Poetry Volume & Digital",
+      "isVerified": true,
+      "verificationNote": "Documented in Goodreads author bibliography",
+      "description": "An intimate tapestry of emotions, resilience, sorrow, and peace. Verses crafted as companions for those navigating life's turbulent seasons.",
+      "synopsis": "Pieces Of My Life is an evocative compendium of verses that map the nonlinear topography of emotional healing. From unspoken grief to reclaimed self-sovereignty, Bidisha's poetry reaches gently into the silent spaces of the human heart.",
+      "cover": "assets/covers/pieces-of-my-life.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/en/book/show/245678859-pieces-of-my-life",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "poetry-for-a-change",
+      "title": "Poetry For A Change",
+      "subtitle": "Reflections on Soul & Society",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Independent Solo Release",
+      "publishedYear": "Recorded",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Print",
+      "isVerified": true,
+      "verificationNote": "Noted in AbeBooks and LinkedIn bibliography",
+      "description": "Empowering poems challenging conformity, celebrating authentic individuality, and offering perspectives on emotional resilience.",
+      "synopsis": "A collection that questions social expectations while honoring the quiet courage of self-discovery. Each poem acts as a mirror, urging readers to redefine strength, kindness, and personal autonomy on their own terms.",
+      "cover": "assets/covers/poetry-for-a-change.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "feelings",
+      "title": "Feelings",
+      "subtitle": "Whispers of the Untold Heart",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Independent Publication",
+      "publishedYear": "Catalogued",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Print Collection",
+      "isVerified": true,
+      "verificationNote": "Listed in author verified bibliography dossier",
+      "description": "A sensitive exploration of love, vulnerable realizations, heartbreak, and the myriad sensations that weave through daily human connections.",
+      "synopsis": "Feelings gathers tender verse reflections composed with heartfelt sincerity. Bidisha translates complex emotional states into luminous, accessible language that invites the reader to sit with their own unvarnished feelings.",
+      "cover": "assets/covers/feelings.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "thoughts",
+      "title": "Thoughts",
+      "subtitle": "Contemplations Beyond Silence",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Independent Publication",
+      "publishedYear": "Catalogued",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Prose Edition",
+      "isVerified": true,
+      "verificationNote": "Catalogued in author profile and literary records",
+      "description": "Philosophical and introspective prose-poetry examining identity, the passage of time, and the quiet epiphanies discovered in solitude.",
+      "synopsis": "Thoughts bridges lyrical verse and philosophical vignettes. The collection delves into the inner conversations we hold with ourselves when the world falls quiet, meditating on presence, purpose, and existence.",
+      "cover": "assets/covers/thoughts.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "letters-and-nostalgia",
+      "title": "Letters And Nostalgia",
+      "subtitle": "Vintage Musings of the Soul",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Independent Publication",
+      "publishedYear": "Catalogued",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Epistolary Edition",
+      "isVerified": false,
+      "verificationNote": "Mentioned in LinkedIn profile; edition details pending author confirmation",
+      "description": "Epistolary reflections wandering through old corridors, forgotten envelopes, and memories that time could never quite erase.",
+      "synopsis": "Written in the cadence of unsent letters, this collection evokes the romance of handwritten correspondence, yellowed stationery, and bittersweet nostalgia for moments and people left behind.",
+      "cover": "assets/covers/letters-and-nostalgia.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "lets-just-live",
+      "title": "Let's Just Live: Hope In Moments",
+      "subtitle": "Hope In Moments",
+      "genre": "Poetry",
+      "genreCategory": "poetry",
+      "publisher": "Independent Release",
+      "publishedYear": "Catalogued",
+      "isbn": "Pending Official Confirmation",
+      "formats": "Paperback & eBook",
+      "isVerified": true,
+      "verificationNote": "Recorded in independent publishing archives",
+      "description": "An uplifting collection focusing on gratitude, the beauty of simple everyday moments, and finding the will to persevere through life's trials.",
+      "synopsis": "A soothing balm for weary minds, Let's Just Live gently urges readers to pause, exhale, and embrace the grace of each unfolding day, demonstrating that hope is often found in the smallest, quietest details.",
+      "cover": "assets/covers/lets-just-live.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "haiku-love",
+      "title": "Haiku Love: Lost In Thoughts",
+      "subtitle": "A Micro-Poetry Collection",
+      "genre": "Haiku",
+      "genreCategory": "haiku",
+      "publisher": "Self-Published / Independent",
+      "publishedYear": "2022",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Poetry Print",
+      "isVerified": true,
+      "verificationNote": "Goodreads listing confirmed (2022)",
+      "description": "Delicate syllables capturing fleeting heartbeats, silent yearning, and the tender melancholy of unspoken love distilled into three rhythmic lines.",
+      "synopsis": "Drawing inspiration from classical Japanese poetic brevity, Haiku Love condenses the vastness of romantic yearning into disciplined 5-7-5 syllabic triplets, capturing raindrops on windows, twilight shadows, and heartfelt whispers.",
+      "cover": "assets/covers/haiku-love.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "flash-pack",
+      "title": "Flash Pack",
+      "subtitle": "Bite-Sized Stories of Wonder & Suspense",
+      "genre": "Flash Fiction",
+      "genreCategory": "flash-fiction",
+      "publisher": "Evincepub Publishing",
+      "publishedYear": "2021-2022",
+      "isbn": "Evincepub Catalogue Ref",
+      "formats": "Paperback & eBook",
+      "isVerified": true,
+      "verificationNote": "Discussed in The Literature Times interview (Jan 2022)",
+      "description": "A collection of rapid, high-impact flash fiction pieces crafted to grip the reader in 500 words or fewer, showcasing sharp pacing and sudden twists.",
+      "synopsis": "Featured extensively in The Literature Times, Flash Pack presents a masterclass in compressed storytelling. Each piece delivers fully realized characters, visceral tension, and startling climaxes within a handful of paragraphs.",
+      "cover": "assets/covers/flash-pack.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "the-crime-of-love",
+      "title": "The Crime of Love",
+      "subtitle": "A Suspenseful Story of Love and Marriage",
+      "genre": "Suspense / Romance",
+      "genreCategory": "suspense",
+      "publisher": "Independent / KDP",
+      "publishedYear": "Catalogued",
+      "isbn": "Pending Official Confirmation",
+      "formats": "eBook & Paperback",
+      "isVerified": true,
+      "verificationNote": "Listed on Goodreads and author LinkedIn platform",
+      "description": "Where devotion turns into possession and vows become shackles. A gripping psychological examination of marriage, betrayal, and consequence.",
+      "synopsis": "Behind closed doors and elegant dinner parties, a couple's vows unravel into suspicion, surveillance, and escalating psychological warfare. The Crime of Love explores how far a person will go to protect a domestic illusion when the truth threatens ruin.",
+      "cover": "assets/covers/the-crime-of-love.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    },
+    {
+      "id": "kidnapped-series",
+      "title": "Kidnapped Series",
+      "subtitle": "A Dark Mafia Romance Series",
+      "genre": "Mafia Romance / Fiction",
+      "genreCategory": "romance",
+      "publisher": "KDP / Amazon",
+      "publishedYear": "Multi-part Series",
+      "isbn": "Pending Official Confirmation",
+      "formats": "Serialized eBook & Print",
+      "isVerified": true,
+      "verificationNote": "Goodreads lists Part 2; AbeBooks cites KDP release",
+      "description": "High-stakes danger meets unyielding passion in this pulse-racing romantic suspense series set against the shadowy backdrop of organized underworlds.",
+      "synopsis": "Ensnared in a web of family rivalries and criminal cartels, a defiant protagonist confronts an enigmatic captor whose motives are as dangerous as his desires. A serialized saga brimming with betrayal, intrigue, and forbidden passion.",
+      "cover": "assets/covers/kidnapped-series.svg",
+      "amazonIn": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "amazonGlobal": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "goodreads": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "abebooks": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya"
+    }
+  ],
+  "anthologies": [
+    {
+      "id": "ola-amigos",
+      "title": "Ola Amigos",
+      "role": "Contributing Author",
+      "genre": "Fiction & Poetry Anthology",
+      "description": "A vibrant celebration of cross-cultural camaraderie, shared laughter, and enduring friendships across distances.",
+      "cover": "assets/covers/ola-amigos.svg",
+      "isCollaborative": true
+    },
+    {
+      "id": "kuch-adhoorey-rishtey",
+      "title": "Kuch Adhoorey Rishtey",
+      "role": "Contributing Author",
+      "genre": "Poetry & Prose Anthology",
+      "description": "Heartfelt bilingual and Hindi/English verses exploring the beauty and pain of incomplete relationships and unspoken goodbyes.",
+      "cover": "assets/covers/kuch-adhoorey-rishtey.svg",
+      "isCollaborative": true
+    },
+    {
+      "id": "diurnal-extract",
+      "title": "Diurnal Extract",
+      "role": "Contributing Author",
+      "genre": "Literary & Essay Anthology",
+      "description": "A curated collection reflecting daily human observations, ethical questions, and contemplative short prose.",
+      "cover": "assets/covers/diurnal-extract.svg",
+      "isCollaborative": true
+    },
+    {
+      "id": "tainted-maples",
+      "title": "Tainted Maples",
+      "role": "Contributing Author",
+      "genre": "Contemporary Fiction",
+      "description": "Atmospheric autumnal narratives touching upon family lore, nostalgic reunions, and emotional secrets.",
+      "cover": "assets/covers/tainted-maples.svg",
+      "isCollaborative": true
+    },
+    {
+      "id": "tangerine",
+      "title": "Tangerine",
+      "role": "Contributing Author",
+      "genre": "Modern Creative Anthology",
+      "description": "Lively, evocative stories and free-verse poetry embodying the warmth, citrus zest, and contrasts of youth.",
+      "cover": "assets/covers/tangerine.svg",
+      "isCollaborative": true
+    },
+    {
+      "id": "crescent-moon",
+      "title": "Crescent Moon",
+      "role": "Contributing Author",
+      "genre": "Poetic Anthology",
+      "description": "Nocturnal reflections and starlit musings exploring nightfall, solace, meditation, and quiet dreams.",
+      "cover": "assets/covers/crescent-moon.svg",
+      "isCollaborative": true
+    }
+  ],
+  "genresShowcase": [
+    {
+      "id": "horror-suspense",
+      "title": "HORROR & SUSPENSE",
+      "tagline": "Atmospheric, mysterious & chilling",
+      "description": "Supernatural village terror, cursed memories, locked attics, and psychological tension that grips until the final page.",
+      "booksCount": "Whispers In The Water, The Girl In The Photo",
+      "color": "var(--burgundy)",
+      "link": "#books"
+    },
+    {
+      "id": "poetry-haiku",
+      "title": "POETRY & HAIKU",
+      "tagline": "Delicate syllables & deep emotion",
+      "description": "Minimalist Japanese haiku, emotional healing verses, soul reflections, and quiet lyrical meditations.",
+      "booksCount": "Pieces Of My Life, Haiku Love, Feelings, Thoughts",
+      "color": "var(--gold)",
+      "link": "#books"
+    },
+    {
+      "id": "romance-fiction",
+      "title": "ROMANCE & FICTION",
+      "tagline": "Passionate, dangerous & tender",
+      "description": "From high-stakes mafia thrillers to the fragile psychology of marriage, vows, and consequence.",
+      "booksCount": "The Crime of Love, Kidnapped Series",
+      "color": "var(--burgundy-dark)",
+      "link": "#books"
+    },
+    {
+      "id": "flash-short-stories",
+      "title": "FLASH FICTION & SHORT STORIES",
+      "tagline": "Rapid, high-impact storytelling",
+      "description": "Lightning-fast narratives engineered under 500 words with sharp pacing, poignant imagery, and unexpected twists.",
+      "booksCount": "Flash Pack, Selected Short Fiction",
+      "color": "var(--charcoal-black)",
+      "link": "#writing"
+    }
+  ],
+  "writingSamples": [
+    {
+      "id": "sample-1",
+      "title": "The Mirror in the Attics",
+      "category": "horror",
+      "categoryName": "Flash Horror",
+      "readingTime": "2 min read",
+      "date": "Literary Archive",
+      "excerpt": "It wasn't that the glass was cracked. It was that when she turned her back to walk down the narrow cedar stairs, the reflection remained standing — smiling with teeth that were not hers.",
+      "fullText": "It wasn't that the glass was cracked. It was that when she turned her back to walk down the narrow cedar stairs, the reflection remained standing — smiling with teeth that were not hers.\n\nFor three decades, the attic of the ancestral manor in Barrackpore had been bolted shut with brass padlocks whose keys had dissolved into rumor. But damp monsoon winds have a way of unmaking old iron. The door had swollen, then yielded with a groan that sounded entirely too human.\n\nInside, dust hung like suspended memory. She had only meant to retrieve the cedar chest of handwritten letters. Instead, her lantern caught the silvered edges of the Venetian mirror.\n\nShe took one step forward. The mirror took two. And in the silence between breaths, a voice like dry leaves whispered from behind the glass: 'You took forty years to return. I have stayed hungry every single day.'",
+      "theme": "Supernatural Horror"
+    },
+    {
+      "id": "sample-2",
+      "title": "Three Breaths of Monsoon",
+      "category": "haiku",
+      "categoryName": "Haiku Trio",
+      "readingTime": "1 min read",
+      "date": "Haiku Collection",
+      "excerpt": "Rain knocks on the pane, / words we never dared to say / drown beneath the dark.",
+      "fullText": "Rain knocks on the pane, \nWords we never dared to say \nDrown beneath the dark.\n\n* * *\n\nInk on brittle page, \nOld letters carry your voice \nThrough an empty room.\n\n* * *\n\nMidnight strikes again, \nThe heart learns what quiet means \nWhen the shadows stay.",
+      "theme": "Melancholy & Haiku"
+    },
+    {
+      "id": "sample-3",
+      "title": "The Anatomy of a Secret",
+      "category": "suspense",
+      "categoryName": "Psychological Suspense",
+      "readingTime": "3 min read",
+      "date": "Fiction Archive",
+      "excerpt": "Trust is like bone china in a tempest: you can piece the shards together with molten gold, but the fractures will forever remember where the impact struck.",
+      "fullText": "Trust is like bone china in a tempest: you can piece the shards together with molten gold, but the fractures will forever remember where the impact struck.\n\nShe folded the telegram three times, sliding it into the hollow lining of her coat. If he found it, the evening would dissolve into accusations; if he didn't, the silence would poison them both by sunrise.\n\nMarriage in high society was not built on confession; it was maintained by the artful omission of dangerous truths. But tonight, outside the frosted window panes, a car engine had idled for twenty-five minutes without headlights.\n\nWhoever was sitting inside that vehicle wasn't waiting for an invitation. They were waiting for a signal.",
+      "theme": "Suspense & Mystery"
+    },
+    {
+      "id": "sample-4",
+      "title": "Pieces That Stay",
+      "category": "poetry",
+      "categoryName": "Selected Poem",
+      "readingTime": "2 min read",
+      "date": "Healing Verses",
+      "excerpt": "We collect ourselves from the edges of people who could only hold us for a season, and we call the mending poetry.",
+      "fullText": "We collect ourselves \nfrom the edges of people \nwho could only hold us for a season, \nand we call the mending poetry.\n\nThere are nights when sorrow \nfeels like an ancient riverbed \ncarved into the ribcage, \ndeep enough to hold every tear \nyou swore you would never cry again.\n\nYet the sun returns, \nunhurried and unforgiving, \nto remind the soil: \neven the broken ground \nlearns how to bloom.",
+      "theme": "Healing & Emotional Resilience"
+    },
+    {
+      "id": "sample-5",
+      "title": "The Threshold at Midnight",
+      "category": "short-story",
+      "categoryName": "Short Story Excerpt",
+      "readingTime": "4 min read",
+      "date": "Fiction Anthology",
+      "excerpt": "Every family has a room that everyone pretends does not exist until the floorboards begin to creak in the small hours.",
+      "fullText": "Every family has a room that everyone pretends does not exist until the floorboards begin to creak in the small hours.\n\nIn our household, it was the corner chamber past the pantry where grandfather's clocks were kept. Seven pendulum clocks, each wound to a different hour, ticking in a polyrhythmic chorus that drowned out the night frogs.\n\nOn the night before my departure for the university, I found Aunt Maya standing before the tallest mahogany clock. Her fingers were pressed flat against the glass casing, tracing the pendulum's frantic arc.\n\n'Do not come back after dusk,' she said without turning. 'When you leave this house, remember: the past does not run backward, but it knows how to wait.'",
+      "theme": "Literary Fiction"
+    },
+    {
+      "id": "sample-6",
+      "title": "On the Architecture of Solitude",
+      "category": "reflection",
+      "categoryName": "Literary Reflection",
+      "readingTime": "3 min read",
+      "date": "Author Notes",
+      "excerpt": "Solitude is not the absence of company; it is the presence of an unfiltered self demanding honesty.",
+      "fullText": "Solitude is not the absence of company; it is the presence of an unfiltered self demanding honesty.\n\nWhen I write, the world outside fades into gentle murmurs. The characters who step into the light of the desk lamp bring their own shadows, their unhealed wounds, their stubborn yearnings. To be a writer is to hold vigil for voices that have no other throat through which to speak.\n\nWe build worlds out of twenty-six letters, hoping that somewhere across miles of silence, a stranger turns the page and whispers: 'I thought I was the only one.'",
+      "theme": "Writing Craft"
+    }
+  ],
+  "authorsDesk": {
+    "title": "The Author's Desk",
+    "subtitle": "An intimate glimpse into Bidisha's creative sanctuary",
+    "description": "Every page begins here — amidst ink-stained thoughts, handwritten drafts, steaming tea, and the quiet hours when characters come alive.",
+    "items": [
+      {
+        "id": "item-notebook",
+        "name": "The Open Journal",
+        "detail": "Drafting raw thoughts, unpolished verses, and character motivations in ink before they reach print.",
+        "icon": "book-open"
+      },
+      {
+        "id": "item-pen",
+        "name": "The Burgundy Fountain Pen",
+        "detail": "A cherished writing instrument used for signing editions and writing epistolary prose.",
+        "icon": "feather"
+      },
+      {
+        "id": "item-coffee",
+        "name": "The Steaming Cup",
+        "detail": "Fueling 2 AM writing marathons during the monsoon seasons of Bengal.",
+        "icon": "coffee"
+      },
+      {
+        "id": "item-letters",
+        "name": "Vintage Correspondence",
+        "detail": "Old postcards and handwritten letters that inspired 'Letters And Nostalgia'.",
+        "icon": "mail"
+      },
+      {
+        "id": "item-glasses",
+        "name": "Reading Spectacles",
+        "detail": "Worn during deep reading sessions across classic horror and world poetry.",
+        "icon": "eye"
+      },
+      {
+        "id": "item-rose",
+        "name": "Pressed Rose Bookmark",
+        "detail": "A keepsake marking favorite passages in time-worn paperbacks.",
+        "icon": "bookmark"
+      }
+    ]
+  },
+  "readersCorner": {
+    "title": "Reader's Corner",
+    "subtitle": "Reflections, discussions and community notes",
+    "note": "We celebrate our readers around the globe. Reader reflections and book club notes are published with reader consent. To share your reflections on Bidisha's books, reach out via the contact form.",
+    "recommendations": [
+      {
+        "title": "For Mystery & Horror Lovers",
+        "recommendation": "Start with 'Whispers In The Water' followed by 'The Girl In The Photo' for back-to-back atmospheric chills."
+      },
+      {
+        "title": "For Seekers of Emotional Healing",
+        "recommendation": "Immerse yourself in 'Pieces Of My Life: Words That Can Heal You' paired with 'Feelings'."
+      },
+      {
+        "title": "For Fast, High-Paced Commutes",
+        "recommendation": "Dive into 'Flash Pack' — punchy, bite-sized suspense you can finish in a single sitting."
+      }
+    ]
+  },
+  "latestUpdates": [
+    {
+      "date": "Recent Literary Note",
+      "category": "Catalogue Update",
+      "title": "Complete 12-Book Cataloguing & Anthology Reconciliation",
+      "summary": "Full author catalogue including solo horror masterworks, poetry compilations, and 30+ collaborative anthologies now accessible on the official portal."
+    },
+    {
+      "date": "Author Dispatch",
+      "category": "Creative Craft",
+      "title": "On Crafting Atmosphere in Indian Indie Horror",
+      "summary": "Reflections on regional Bengali folklore, haunted rivers, and why psychological silence terrifies more than gore."
+    },
+    {
+      "date": "Reading Space",
+      "category": "Poetry",
+      "title": "Letters From Bidisha: New Micro-Poetry Series",
+      "summary": "Subscribers receive monthly reflections and private verses distilled from author journals."
+    }
+  ],
+  "awards": [
+    {
+      "id": "award-1",
+      "name": "Best Writer Award of 2021",
+      "year": "2021",
+      "organization": "AwardsArc",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Recognized for creative storytelling excellence and independent publishing achievements.",
+      "verificationUrl": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+      "note": "Reported in author dossier; certificate verification pending author upload",
+      "published": true
+    },
+    {
+      "id": "award-2",
+      "name": "Best Writer of 2021",
+      "year": "2021",
+      "organization": "India Prime Awards",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Nominated and reported for literary contributions across poetry and fiction genres.",
+      "verificationUrl": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+      "note": "Reported in public profile; certificate verification pending",
+      "published": true
+    },
+    {
+      "id": "award-3",
+      "name": "Best Writer of 2021",
+      "year": "2021",
+      "organization": "Rising Star Awards",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Honored as a rising creative talent emerging from independent writing communities in India.",
+      "verificationUrl": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+      "note": "Listed in author dossier archive",
+      "published": true
+    },
+    {
+      "id": "award-4",
+      "name": "Bharatiya Youth Face of India Awards",
+      "year": "2021-2022",
+      "organization": "Bharatiya Youth Council",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Celebrated for youth creative leadership, cultural storytelling, and prolific writing output.",
+      "verificationUrl": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+      "note": "Awaiting official certificate ratification",
+      "published": true
+    },
+    {
+      "id": "award-5",
+      "name": "Budding Writer Award",
+      "year": "2022",
+      "organization": "Spectrum Awards",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Presented in connection with Spectrum India / ABNewswire feature on emerging literary voices.",
+      "verificationUrl": "https://www.abnewswire.com/pressreleases/bidisha-bhattacharyya-creative-kind-empathetic-daydreamer-spectrum-india-2022_596965.html",
+      "note": "Documented in 2022 media profile",
+      "published": true
+    },
+    {
+      "id": "award-6",
+      "name": "Influential Women Award",
+      "year": "2022",
+      "organization": "Spectrum Awards",
+      "status": "Reported in 2022 Profile",
+      "isVerified": false,
+      "description": "Recognizing independent creative initiative and prolific contributions to multi-author anthologies.",
+      "verificationUrl": "https://www.abnewswire.com/pressreleases/bidisha-bhattacharyya-creative-kind-empathetic-daydreamer-spectrum-india-2022_596965.html",
+      "note": "Documented in 2022 media profile",
+      "published": true
+    }
+  ],
+  "press": [
+    {
+      "id": "press-1",
+      "outlet": "The Literature Times",
+      "headline": "An Interview with Author Bidisha Bhattacharyya",
+      "date": "January 2022",
+      "url": "https://www.theliteraturetimes.com/an-interview-with-author-bidisha-bhattacharyya/",
+      "summary": "An in-depth literary interview discussing 'Flash Pack', writing horror as an Indian woman author, character psychology, and how writing from the heart creates lasting reader bonds.",
+      "tag": "Featured Interview"
+    },
+    {
+      "id": "press-2",
+      "outlet": "Spectrum India / ABNewswire",
+      "headline": "Bidisha Bhattacharyya – Creative, Kind, Empathetic Daydreamer",
+      "date": "21 April 2022",
+      "url": "https://www.abnewswire.com/pressreleases/bidisha-bhattacharyya-creative-kind-empathetic-daydreamer-spectrum-india-2022_596965.html",
+      "summary": "National press release profiling her journey from Class 12 exams, online writing hubs (YourQuote, Wattpad) to 30+ anthology contributions and solo books.",
+      "tag": "National Media Spotlight"
+    },
+    {
+      "id": "press-3",
+      "outlet": "Goodreads Author Profile",
+      "headline": "Goodreads Official Author Hub & Shelf",
+      "date": "Active Reader Community",
+      "url": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+      "summary": "Official author profile cataloguing 15+ publications, reader shelves, ratings, and literary discussion forums.",
+      "tag": "Reader Hub"
+    },
+    {
+      "id": "press-4",
+      "outlet": "AbeBooks International",
+      "headline": "AbeBooks Author Catalogue & Rare Book Depository",
+      "date": "Global Distribution",
+      "url": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+      "summary": "International rare and independent book distributor cataloguing solo publications like Whispers In The Water, The Girl In The Photo, and educational background.",
+      "tag": "Global Distribution Profile"
+    },
+    {
+      "id": "press-5",
+      "outlet": "Amazon Author Store",
+      "headline": "Official Amazon India & International Author Store",
+      "date": "Official Storefront",
+      "url": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+      "summary": "Central verified repository for Kindle eBooks, paperbacks, and author updates across India and worldwide Amazon storefronts.",
+      "tag": "Author Store"
+    }
+  ],
+  "portfolioServices": [
+    {
+      "title": "Copywriting",
+      "description": "Compelling, brand-aligned marketing copy, back-cover book blurbs, website copy, and promotional narratives that convert interest into loyal engagement.",
+      "icon": "feather"
+    },
+    {
+      "title": "Content Writing",
+      "description": "Engaging long-form articles, literary features, digital essays, and educational content structured with voice, clarity, and precision.",
+      "icon": "file-text"
+    },
+    {
+      "title": "Blogging",
+      "description": "Narrative-driven lifestyle, literature, and arts blog posts crafted with authentic storytelling hooks and organic SEO awareness.",
+      "icon": "book-open"
+    },
+    {
+      "title": "Ghostwriting",
+      "description": "Collaborative fiction architecture, manuscript co-writing, memoirs, and short story collections developed discreetly to honor your vision.",
+      "icon": "pen-tool"
+    },
+    {
+      "title": "Promotional Writing",
+      "description": "Bespoke promotional press releases, author press kits, media pitches, and event promotional collateral.",
+      "icon": "send"
+    },
+    {
+      "title": "Scriptwriting",
+      "description": "Cinematic narrative scripts for book trailers, author interview video teasers, podcast intros, and short narrative audio dramas.",
+      "icon": "film"
+    },
+    {
+      "title": "Creative Writing",
+      "description": "Original poetry commissions, bespoke short stories, commemorative verses, and customized literary pieces for special milestones.",
+      "icon": "sparkles"
+    },
+    {
+      "title": "Content Strategy",
+      "description": "Author branding roadmaps, social narrative calendars, and strategic positioning for independent creators and indie writers.",
+      "icon": "compass"
+    }
+  ],
+  "portfolioProjects": [
+    {
+      "id": "proj-1",
+      "title": "Flash Pack: High-Tension Literary Microfiction",
+      "category": "Creative Writing & Book Publishing",
+      "year": "2022",
+      "description": "Engineered a series of compressed short fiction narratives under 500 words for commercial publication with Evincepub Publishing, featured in national literary press.",
+      "tag": "Commercial Fiction"
+    },
+    {
+      "id": "proj-2",
+      "title": "Atmospheric Horror Blurb & Promo Architecture",
+      "category": "Copywriting & Back-Cover Blurbs",
+      "year": "2021-2022",
+      "description": "Crafted back-cover copy and marketing positioning for 'Whispers In The Water' and 'The Girl In The Photo', optimizing intrigue and genre hooks.",
+      "tag": "Blurb Copywriting"
+    },
+    {
+      "id": "proj-3",
+      "title": "Lifestyle & Literary Essay Columns",
+      "category": "Blogging & Digital Publishing",
+      "year": "2021-Present",
+      "description": "Authored introspective columns on Medium, Blogger ('Love in Lifestyle'), and Substack exploring creative resilience, youth perspectives, and emotional well-being.",
+      "tag": "Digital Columns"
+    },
+    {
+      "id": "proj-4",
+      "title": "Multi-Author Anthology Editorial Submissions",
+      "category": "Collaborative Publishing",
+      "year": "2020-2023",
+      "description": "Contributed to 30+ competitive published anthologies, meeting strict publisher editorial guidelines and collaborative theme briefs across India.",
+      "tag": "Anthology Writing"
+    }
+  ],
+  "socialMedia": {
+    "networks": [
+      {
+        "id": "instagram",
+        "name": "Instagram",
+        "handle": "@amazingauthor",
+        "url": "https://www.instagram.com/amazingauthor/",
+        "category": "Social & Professional Networks",
+        "description": "Official author handle sharing daily poetry, quotes, book announcements, and behind-the-scenes writing desk updates.",
+        "icon": "instagram",
+        "isPrimary": true,
+        "enabled": true
+      },
+      {
+        "id": "facebook",
+        "name": "Facebook",
+        "handle": "writingtipsandadvice",
+        "url": "https://www.facebook.com/writingtipsandadvice/",
+        "category": "Social & Professional Networks",
+        "description": "Community page dedicated to writing tips, craft advice, creative motivation, and book discussions.",
+        "icon": "facebook",
+        "enabled": true
+      },
+      {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "handle": "Bidisha Bhattacharyya",
+        "url": "https://www.linkedin.com/in/bidisha-bhattacharyya-7454b21a6/",
+        "category": "Social & Professional Networks",
+        "description": "Professional network connecting with publishers, media editors, brands, and fellow writers.",
+        "icon": "linkedin",
+        "enabled": true
+      },
+      {
+        "id": "twitter",
+        "name": "X (Twitter)",
+        "handle": "@AmazingAuthorB",
+        "url": "https://x.com/AmazingAuthorB",
+        "category": "Social & Professional Networks",
+        "description": "Bite-sized literary musings, book quotes, reading reflections, and community interactions.",
+        "icon": "twitter",
+        "enabled": true
+      },
+      {
+        "id": "pinterest",
+        "name": "Pinterest",
+        "handle": "writingisbliss",
+        "url": "https://www.pinterest.com/writingisbliss/",
+        "category": "Social & Professional Networks",
+        "description": "Visual moodboards, book aesthetics, horror inspirations, and poetic typography pins.",
+        "icon": "pinterest",
+        "enabled": true
+      }
+    ],
+    "writing": [
+      {
+        "id": "medium",
+        "name": "Medium",
+        "handle": "@bidisha253",
+        "url": "https://medium.com/@bidisha253",
+        "category": "Writing & Blogging",
+        "description": "Long-form literary essays, creative insights, reflections on human emotions, and writerly life.",
+        "icon": "medium",
+        "enabled": true
+      },
+      {
+        "id": "wattpad",
+        "name": "Wattpad",
+        "handle": "EsTellaToCruElla",
+        "url": "https://www.wattpad.com/user/EsTellaToCruElla",
+        "category": "Writing & Blogging",
+        "description": "Early serialization hub where Bidisha first connected with readers and published serialized fiction.",
+        "icon": "wattpad",
+        "enabled": true
+      },
+      {
+        "id": "blogger",
+        "name": "Blogger",
+        "handle": "Love In Lifestyle",
+        "url": "https://loveinlifestyle.blogspot.com/",
+        "category": "Writing & Blogging",
+        "description": "Personal blog exploring lifestyle reflections, emotional well-being, books, and creative living.",
+        "icon": "blogger",
+        "enabled": true
+      },
+      {
+        "id": "substack",
+        "name": "Substack",
+        "handle": "authorbidisha.substack.com",
+        "url": "https://authorbidisha.substack.com/",
+        "category": "Writing & Blogging",
+        "description": "Intimate newsletter dispatches, subscriber-only essays, and reflective letters sent straight to readers.",
+        "icon": "substack",
+        "enabled": true
+      }
+    ],
+    "discovery": [
+      {
+        "id": "amazon-in",
+        "name": "Amazon India",
+        "handle": "Bidisha Bhattacharyya Store",
+        "url": "https://www.amazon.in/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+        "category": "Book Discovery",
+        "description": "Official author store on Amazon India for Kindle editions, paperbacks, and reader reviews.",
+        "icon": "amazon",
+        "enabled": true
+      },
+      {
+        "id": "amazon-global",
+        "name": "Amazon International",
+        "handle": "Bidisha Bhattacharyya Global Store",
+        "url": "https://www.amazon.com/stores/Bidisha-Bhattacharyya/author/B09RJ2937Z",
+        "category": "Book Discovery",
+        "description": "Worldwide Amazon storefront serving international readers in the US, UK, Canada, Europe, and beyond.",
+        "icon": "amazon",
+        "enabled": true
+      },
+      {
+        "id": "goodreads",
+        "name": "Goodreads",
+        "handle": "Bidisha Bhattacharyya Profile",
+        "url": "https://www.goodreads.com/author/show/20521078.Bidisha_Bhattacharyya",
+        "category": "Book Discovery",
+        "description": "Verified Goodreads author shelf listing 15+ titles, community reviews, and reader bookshelves.",
+        "icon": "goodreads",
+        "enabled": true
+      },
+      {
+        "id": "abebooks",
+        "name": "AbeBooks",
+        "handle": "Author Profile B09RJ2937Z",
+        "url": "https://www.abebooks.co.uk/author/b09rj2937z/bidisha-bhattacharyya",
+        "category": "Book Discovery",
+        "description": "Global rare and independent books repository cataloguing her solo publications and distribution.",
+        "icon": "book",
+        "enabled": true
+      }
+    ],
+    "products": [
+      {
+        "id": "gumroad",
+        "name": "Gumroad Storefront",
+        "handle": "bidishawrites",
+        "url": "https://bidishawrites.gumroad.com/",
+        "category": "Digital Products",
+        "description": "Independent storefront for digital literary works, exclusive poetry chapbooks, and creative products.",
+        "icon": "shopping-bag",
+        "enabled": true
+      }
+    ]
+  },
+  "siteSettings": {
+    "contactEmail": "contact@bidishawrites.com",
+    "enableMediaKitDownload": true,
+    "showAwardsSection": true,
+    "showPortfolioSection": true,
+    "showAnthologyWall": true,
+    "showAuthorsDesk": true,
+    "showReadersCorner": true
+  }
+}

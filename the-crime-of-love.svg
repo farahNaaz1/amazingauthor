@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgCrime" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F161B"/>
+      <stop offset="50%" stop-color="#38101E"/>
+      <stop offset="100%" stop-color="#100B0E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#bgCrime)"/>
+
+  <!-- Outer frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#C5A059" stroke-width="1.2" opacity="0.5"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#FAF7F2" stroke-width="0.6" opacity="0.25"/>
+
+  <!-- Center Artwork: Thorny Gilded Rose & Intertwined Handcuff Motif -->
+  <g transform="translate(300, 420)">
+    <!-- Rose silhouette in deep crimson with gold outline -->
+    <circle cx="0" cy="-30" r="45" fill="#581825" stroke="#C5A059" stroke-width="1.5"/>
+    <path d="M -20 -40 C -10 -65 10 -65 20 -40 C 35 -30 35 0 15 15 C 0 25 -15 15 -25 -5 Z" fill="#7D2235" stroke="#D4AF37" stroke-width="1"/>
+    <!-- Thorny stem wrapping like shackles -->
+    <path d="M 0 15 Q -15 65 10 110 T -5 160" stroke="#C5A059" stroke-width="2.5" fill="none"/>
+    <polygon points="12,70 25,65 18,80" fill="#C5A059"/>
+    <polygon points="-12,120 -25,115 -18,130" fill="#C5A059"/>
+    <!-- Intertwined Ring / Shackle -->
+    <circle cx="35" cy="110" r="28" fill="none" stroke="#D4AF37" stroke-width="2.5"/>
+    <circle cx="-35" cy="110" r="28" fill="none" stroke="#D4AF37" stroke-width="2.5"/>
+  </g>
+
+  <!-- Titles -->
+  <text x="300" y="120" font-family="'Cinzel', serif" font-size="12" letter-spacing="6" fill="#C5A059" text-anchor="middle">A SUSPENSEFUL STORY OF LOVE AND MARRIAGE</text>
+  <line x1="200" y1="135" x2="400" y2="135" stroke="#C5A059" stroke-width="0.8" opacity="0.6"/>
+
+  <text x="300" y="195" font-family="'Playfair Display', Georgia, serif" font-size="28" letter-spacing="4" fill="#E8DFC8" text-anchor="middle">THE</text>
+  <text x="300" y="245" font-family="'Playfair Display', Georgia, serif" font-size="48" font-weight="800" fill="#FAF7F2" text-anchor="middle">CRIME OF LOVE</text>
+
+  <text x="300" y="680" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#C9BDB9" text-anchor="middle">“When wedding vows become the ultimate alibi.”</text>
+
+  <rect x="170" y="770" width="260" height="46" fill="#1A0D14" rx="3" stroke="#C5A059" stroke-width="1.2"/>
+  <text x="300" y="799" font-family="'Cinzel', Georgia, serif" font-size="15" letter-spacing="4" fill="#FFFFFF" text-anchor="middle" font-weight="700">BIDISHA BHATTACHARYYA</text>
+</svg>

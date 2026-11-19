@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="thoughtsBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1c24"/>
+      <stop offset="50%" stop-color="#2a2533"/>
+      <stop offset="100%" stop-color="#14131a"/>
+    </linearGradient>
+    <radialGradient id="indigoGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7a70a3" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#14131a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#thoughtsBg)"/>
+  <rect width="600" height="900" fill="url(#indigoGlow)"/>
+
+  <!-- Ornate Frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#B49A68" stroke-width="1.5" stroke-opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#B49A68" stroke-width="0.75" stroke-opacity="0.3" stroke-dasharray="6,4"/>
+
+  <!-- Corner Flourishes -->
+  <path d="M 40 60 L 60 40 M 40 40 L 40 70 M 40 40 L 70 40" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 560 60 L 540 40 M 560 40 L 560 70 M 560 40 L 530 40" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 40 840 L 60 860 M 40 860 L 40 830 M 40 860 L 70 860" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 560 840 L 540 860 M 560 860 L 560 830 M 560 860 L 530 860" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+
+  <!-- Celestial / Introspective Geometry -->
+  <g fill="none" stroke="#B49A68" stroke-width="1" opacity="0.5">
+    <circle cx="300" cy="500" r="140"/>
+    <circle cx="300" cy="500" r="100" stroke-dasharray="4,4"/>
+    <circle cx="300" cy="500" r="60"/>
+    <path d="M 300 340 L 300 660"/>
+    <path d="M 140 500 L 460 500"/>
+    <polygon points="300,380 404,440 404,560 300,620 196,560 196,440" stroke="#9d8fbd" stroke-width="1.2"/>
+  </g>
+
+  <!-- Top Ribbon -->
+  <text x="300" y="115" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" font-size="14" letter-spacing="6" fill="#B49A68" text-anchor="middle" font-weight="600">POETRY &amp; REFLECTIONS</text>
+  <line x1="220" y1="130" x2="380" y2="130" stroke="#B49A68" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="300" y="230" font-family="'Playfair Display', Georgia, serif" font-size="52" font-style="italic" fill="#FAF2E9" text-anchor="middle" font-weight="700">Thoughts</text>
+  <text x="300" y="275" font-family="'DM Sans', sans-serif" font-size="13" letter-spacing="4" fill="#B49A68" text-anchor="middle">CONTEMPLATIONS BEYOND SILENCE</text>
+
+  <!-- Author Name -->
+  <line x1="240" y1="740" x2="360" y2="740" stroke="#B49A68" stroke-width="0.8" opacity="0.5"/>
+  <text x="300" y="775" font-family="'Playfair Display', Georgia, serif" font-size="20" letter-spacing="3" fill="#FAF2E9" text-anchor="middle">BIDISHA BHATTACHARYYA</text>
+  <text x="300" y="800" font-family="'DM Sans', sans-serif" font-size="11" letter-spacing="2" fill="#B49A68" text-anchor="middle">AUTHOR BIDISHA</text>
+</svg>

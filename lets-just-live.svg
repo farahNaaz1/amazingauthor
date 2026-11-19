@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="liveBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#243329"/>
+      <stop offset="50%" stop-color="#18241e"/>
+      <stop offset="100%" stop-color="#0f1713"/>
+    </linearGradient>
+    <radialGradient id="emeraldGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#76a386" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0f1713" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#liveBg)"/>
+  <rect width="600" height="900" fill="url(#emeraldGlow)"/>
+
+  <!-- Ornate Frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#B49A68" stroke-width="1.5" stroke-opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#B49A68" stroke-width="0.75" stroke-opacity="0.3" stroke-dasharray="6,4"/>
+
+  <!-- Corner Flourishes -->
+  <path d="M 40 60 L 60 40 M 40 40 L 40 70 M 40 40 L 70 40" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 560 60 L 540 40 M 560 40 L 560 70 M 560 40 L 530 40" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 40 840 L 60 860 M 40 860 L 40 830 M 40 860 L 70 860" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+  <path d="M 560 840 L 540 860 M 560 860 L 560 830 M 560 860 L 530 860" stroke="#B49A68" stroke-width="1.5" fill="none" opacity="0.8"/>
+
+  <!-- Botanical / Leaf Branch Flourish -->
+  <g fill="none" stroke="#a3c4ae" stroke-width="1.5" opacity="0.6">
+    <path d="M 300 620 C 300 480 320 420 300 360"/>
+    <!-- Leaves -->
+    <path d="M 300 560 C 260 550 250 510 300 520 Z" fill="#4a735a" opacity="0.5"/>
+    <path d="M 300 510 C 340 500 350 460 300 470 Z" fill="#4a735a" opacity="0.5"/>
+    <path d="M 300 450 C 265 440 255 410 300 420 Z" fill="#4a735a" opacity="0.5"/>
+    <circle cx="300" cy="355" r="6" fill="#B49A68"/>
+  </g>
+
+  <!-- Top Ribbon -->
+  <text x="300" y="115" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" font-size="14" letter-spacing="6" fill="#B49A68" text-anchor="middle" font-weight="600">INSPIRATIONAL POETRY</text>
+  <line x1="220" y1="130" x2="380" y2="130" stroke="#B49A68" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="300" y="215" font-family="'Playfair Display', Georgia, serif" font-size="44" font-style="italic" fill="#FAF2E9" text-anchor="middle" font-weight="700">Let’s Just Live</text>
+  <text x="300" y="260" font-family="'DM Sans', sans-serif" font-size="14" letter-spacing="4" fill="#B49A68" text-anchor="middle">HOPE IN MOMENTS</text>
+
+  <!-- Author Name -->
+  <line x1="240" y1="740" x2="360" y2="740" stroke="#B49A68" stroke-width="0.8" opacity="0.5"/>
+  <text x="300" y="775" font-family="'Playfair Display', Georgia, serif" font-size="20" letter-spacing="3" fill="#FAF2E9" text-anchor="middle">BIDISHA BHATTACHARYYA</text>
+  <text x="300" y="800" font-family="'DM Sans', sans-serif" font-size="11" letter-spacing="2" fill="#B49A68" text-anchor="middle">AUTHOR BIDISHA</text>
+</svg>

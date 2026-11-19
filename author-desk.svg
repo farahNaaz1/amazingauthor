@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" width="100%" height="100%">
+  <defs>
+    <!-- Warm wood grain desk background -->
+    <linearGradient id="deskWood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D1C16"/>
+      <stop offset="40%" stop-color="#3D271E"/>
+      <stop offset="70%" stop-color="#321F17"/>
+      <stop offset="100%" stop-color="#22140E"/>
+    </linearGradient>
+    <radialGradient id="lampGlow" cx="50%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#FFEBB8" stop-opacity="0.32"/>
+      <stop offset="50%" stop-color="#FFD68A" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#22140E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paperGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF7EE"/>
+      <stop offset="100%" stop-color="#EFE6D5"/>
+    </linearGradient>
+    <linearGradient id="brassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5C77A"/>
+      <stop offset="50%" stop-color="#B49A68"/>
+      <stop offset="100%" stop-color="#7A6335"/>
+    </linearGradient>
+    <linearGradient id="leatherCover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6F2338"/>
+      <stop offset="100%" stop-color="#4A1422"/>
+    </linearGradient>
+    <filter id="deskShadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#0E0806" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <!-- Desk Surface -->
+  <rect width="1000" height="650" fill="url(#deskWood)"/>
+  <!-- Ambient Desk Lamp Glow -->
+  <rect width="1000" height="650" fill="url(#lampGlow)"/>
+
+  <!-- Subtle desk wood plank lines -->
+  <line x1="0" y1="180" x2="1000" y2="180" stroke="#1A0F0A" stroke-width="2" opacity="0.4"/>
+  <line x1="0" y1="360" x2="1000" y2="360" stroke="#1A0F0A" stroke-width="2" opacity="0.4"/>
+  <line x1="0" y1="520" x2="1000" y2="520" stroke="#1A0F0A" stroke-width="2" opacity="0.4"/>
+
+  <!-- Leather Writing Pad / Blotter in Center -->
+  <rect x="180" y="70" width="640" height="490" rx="12" fill="#1C1513" stroke="#4A3428" stroke-width="3" filter="url(#deskShadow)"/>
+  <rect x="195" y="85" width="610" height="460" rx="8" fill="#251C18" stroke="#B49A68" stroke-width="1" stroke-opacity="0.4" stroke-dasharray="6,4"/>
+
+  <!-- 1. Open Hardcover Manuscript / Journal in Center -->
+  <g transform="translate(320, 130)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskOpenBook">
+    <!-- Burgundy Leather Binding underneath -->
+    <path d="M 10 320 Q 180 340 360 320 L 370 20 Q 180 40 0 20 Z" fill="url(#leatherCover)" stroke="#B49A68" stroke-width="1.5"/>
+    <!-- Left Page -->
+    <path d="M 20 30 Q 180 50 180 320 Q 20 300 20 30 Z" fill="url(#paperGrad)"/>
+    <!-- Right Page -->
+    <path d="M 180 320 Q 180 50 350 30 Q 350 300 180 320 Z" fill="#F8F3E8"/>
+    <!-- Spine Shadow crease -->
+    <line x1="180" y1="40" x2="180" y2="320" stroke="#4A3428" stroke-width="3" opacity="0.5"/>
+
+    <!-- Simulated cursive lines of handwritten draft -->
+    <g stroke="#6F2338" stroke-width="1.2" opacity="0.65" stroke-linecap="round">
+      <path d="M 40 70 Q 70 66 110 70 T 160 68"/>
+      <path d="M 40 95 Q 80 92 120 95 T 160 93"/>
+      <path d="M 40 120 Q 60 118 100 120 T 155 119"/>
+      <path d="M 40 145 Q 85 142 130 145 T 160 143"/>
+      <path d="M 40 170 Q 75 167 115 170 T 150 168"/>
+      <path d="M 40 195 Q 90 192 135 195 T 160 194"/>
+      <path d="M 40 220 Q 65 218 110 220 T 155 218"/>
+      <path d="M 40 245 Q 80 242 125 245 T 145 244"/>
+
+      <!-- Right Page Verse / Poem -->
+      <path d="M 200 80 Q 240 76 280 80 T 325 78"/>
+      <path d="M 200 105 Q 235 102 270 105 T 310 104"/>
+      <path d="M 200 130 Q 245 128 290 130 T 330 128"/>
+      <path d="M 215 170 Q 255 166 295 170 T 325 169"/>
+      <path d="M 215 195 Q 245 192 285 195 T 320 193"/>
+      <path d="M 200 245 Q 230 242 270 245 T 315 243"/>
+    </g>
+
+    <!-- Silk ribbon bookmark -->
+    <path d="M 180 320 Q 190 350 205 375 Q 215 390 230 400" stroke="#B49A68" stroke-width="4" fill="none"/>
+  </g>
+
+  <!-- 2. Ceramic Coffee Cup with Warm Steam on Left -->
+  <g transform="translate(130, 260)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskCoffee">
+    <!-- Saucer -->
+    <ellipse cx="60" cy="90" rx="58" ry="24" fill="#EAE2D5" stroke="#B49A68" stroke-width="1.5"/>
+    <ellipse cx="60" cy="88" rx="42" ry="16" fill="#DCD3C4"/>
+    <!-- Cup body -->
+    <path d="M 25 35 C 25 80 40 85 60 85 C 80 85 95 80 95 35 Z" fill="#F7F2E9" stroke="#B49A68" stroke-width="1.5"/>
+    <!-- Coffee Surface -->
+    <ellipse cx="60" cy="35" rx="35" ry="12" fill="#3D1D13"/>
+    <ellipse cx="58" cy="35" rx="28" ry="9" fill="#2A130C"/>
+    <!-- Handle -->
+    <path d="M 93 42 C 115 45 115 70 91 75" fill="none" stroke="#F7F2E9" stroke-width="6" stroke-linecap="round"/>
+    <!-- Gentle steam swirls -->
+    <path d="M 50 15 Q 45 -5 55 -25 T 50 -45" fill="none" stroke="#F7F2E9" stroke-width="2" opacity="0.3" stroke-linecap="round"/>
+    <path d="M 70 20 Q 75 0 65 -20 T 70 -40" fill="none" stroke="#F7F2E9" stroke-width="2" opacity="0.25" stroke-linecap="round"/>
+  </g>
+
+  <!-- 3. Classic Fountain Pen angled across the blotter -->
+  <g transform="translate(670, 240) rotate(-35)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskPen">
+    <!-- Barrel: Burgundy lacquer -->
+    <rect x="0" y="10" width="130" height="12" rx="4" fill="#6F2338" stroke="#4A1422" stroke-width="1"/>
+    <!-- Brass Gold Rings -->
+    <rect x="15" y="9.5" width="4" height="13" fill="url(#brassGrad)"/>
+    <rect x="90" y="9.5" width="6" height="13" fill="url(#brassGrad)"/>
+    <!-- Grip Section -->
+    <rect x="96" y="10.5" width="22" height="11" fill="#1A1817"/>
+    <!-- Gold Nib -->
+    <polygon points="118,11 142,16 118,21" fill="url(#brassGrad)" stroke="#8A6E30" stroke-width="0.8"/>
+    <line x1="120" y1="16" x2="136" y2="16" stroke="#1A1817" stroke-width="0.8"/>
+    <!-- Clip -->
+    <line x1="18" y1="9" x2="70" y2="9" stroke="url(#brassGrad)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- 4. Reading Spectacles / Wire-rim glasses on bottom right -->
+  <g transform="translate(680, 390) rotate(15)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskGlasses">
+    <!-- Left lens rim -->
+    <ellipse cx="40" cy="30" rx="30" ry="25" fill="#FFFFFF" fill-opacity="0.1" stroke="url(#brassGrad)" stroke-width="2"/>
+    <!-- Right lens rim -->
+    <ellipse cx="115" cy="30" rx="30" ry="25" fill="#FFFFFF" fill-opacity="0.1" stroke="url(#brassGrad)" stroke-width="2"/>
+    <!-- Bridge -->
+    <path d="M 70 28 Q 77.5 22 85 28" fill="none" stroke="url(#brassGrad)" stroke-width="2.5"/>
+    <!-- Temples / earpieces -->
+    <path d="M 10 30 Q -20 25 -35 60" fill="none" stroke="url(#brassGrad)" stroke-width="2"/>
+    <path d="M 145 30 Q 175 25 190 60" fill="none" stroke="url(#brassGrad)" stroke-width="2"/>
+  </g>
+
+  <!-- 5. Glass Inkwell with Brass Cap on top left -->
+  <g transform="translate(230, 110)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskInkwell">
+    <!-- Heavy glass base -->
+    <rect x="10" y="30" width="55" height="50" rx="6" fill="#1C242B" fill-opacity="0.85" stroke="#3D4B57" stroke-width="1.5"/>
+    <!-- Dark Ink level -->
+    <rect x="14" y="44" width="47" height="32" rx="3" fill="#0C1318"/>
+    <!-- Brass Collar & Lid -->
+    <rect x="22" y="20" width="31" height="10" fill="url(#brassGrad)"/>
+    <path d="M 24 20 Q 37.5 8 51 20 Z" fill="url(#brassGrad)" stroke="#7A6335" stroke-width="0.8"/>
+  </g>
+
+  <!-- 6. Stack of Handwritten Letters & Postcards on bottom left -->
+  <g transform="translate(190, 410) rotate(-8)" filter="url(#deskShadow)" class="interactive-desk-item" id="deskLetters">
+    <!-- Bottom envelope -->
+    <rect x="0" y="15" width="130" height="90" rx="3" fill="#E8DEC8" stroke="#C2B59B" stroke-width="1"/>
+    <!-- Top envelope angled -->
+    <g transform="rotate(12)">
+      <rect x="10" y="-10" width="130" height="85" rx="3" fill="#F4EFE6" stroke="#D5CBB8" stroke-width="1"/>
+      <path d="M 10 -10 L 75 35 L 140 -10" fill="none" stroke="#C2B59B" stroke-width="1"/>
+      <!-- Red sealing wax stamp -->
+      <circle cx="75" cy="35" r="14" fill="#6F2338" stroke="#4A1422" stroke-width="1"/>
+      <text x="75" y="40" font-family="'Playfair Display', serif" font-size="12" fill="#E5C77A" text-anchor="middle" font-weight="700">B</text>
+    </g>
+  </g>
+
+  <!-- 7. Dried Rose Petal Bookmark / Natural Token on top right -->
+  <g transform="translate(730, 120)" opacity="0.85" class="interactive-desk-item" id="deskRose">
+    <path d="M 20 20 C 5 5 35 -15 50 10 C 65 -15 95 5 80 20 C 95 35 65 55 50 40 C 35 55 5 35 20 20 Z" fill="#6F2338" opacity="0.8"/>
+    <path d="M 50 40 Q 60 70 85 90" stroke="#4A5943" stroke-width="2" fill="none"/>
+    <path d="M 60 60 Q 45 65 40 75 Q 55 75 62 65" fill="#4A5943"/>
+  </g>
+
+  <!-- Label Overlay Header -->
+  <text x="500" y="45" font-family="'Cormorant Garamond', serif" font-size="18" letter-spacing="8" fill="#B49A68" text-anchor="middle" font-weight="600">THE AUTHOR'S DESK</text>
+  <line x1="380" y1="55" x2="620" y2="55" stroke="#B49A68" stroke-width="0.8" opacity="0.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tmBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3d1e18"/>
+      <stop offset="60%" stop-color="#5c2c1c"/>
+      <stop offset="100%" stop-color="#24110d"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#tmBg)"/>
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#B49A68" stroke-width="1.5" stroke-opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#B49A68" stroke-width="0.75" stroke-opacity="0.3" stroke-dasharray="6,4"/>
+  <!-- Stylized Maple Leaf -->
+  <path d="M 300 370 L 320 420 L 370 400 L 350 450 L 410 460 L 360 490 L 390 540 L 330 520 L 320 570 L 300 530 L 280 570 L 270 520 L 210 540 L 240 490 L 190 460 L 250 450 L 230 400 L 280 420 Z" fill="#803520" stroke="#B49A68" stroke-width="1.2" opacity="0.6"/>
+  <line x1="300" y1="530" x2="300" y2="610" stroke="#B49A68" stroke-width="2"/>
+  <text x="300" y="115" font-family="'Cormorant Garamond', serif" font-size="14" letter-spacing="6" fill="#B49A68" text-anchor="middle">LITERARY ANTHOLOGY</text>
+  <text x="300" y="225" font-family="'Playfair Display', serif" font-size="44" font-style="italic" fill="#FAF2E9" text-anchor="middle" font-weight="700">Tainted Maples</text>
+  <text x="300" y="270" font-family="'DM Sans', sans-serif" font-size="13" letter-spacing="4" fill="#B49A68" text-anchor="middle">AUTUMN TALES OF LOSS &amp; MEMORY</text>
+  <text x="300" y="780" font-family="'Playfair Display', serif" font-size="16" letter-spacing="2" fill="#FAF2E9" text-anchor="middle">FEATURING BIDISHA BHATTACHARYYA</text>
+  <text x="300" y="805" font-family="'DM Sans', sans-serif" font-size="11" letter-spacing="2" fill="#B49A68" text-anchor="middle">CONTRIBUTED FICTION COLLECTION</text>
+</svg>

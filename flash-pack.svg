@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgFlash" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A121E"/>
+      <stop offset="50%" stop-color="#2D0B13"/>
+      <stop offset="100%" stop-color="#140408"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="url(#bgFlash)"/>
+
+  <!-- Ornate Frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#C5A059" stroke-width="1.5" opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#FAF7F2" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Center Graphic: Quill & Lightning Shockwave Motif -->
+  <g transform="translate(300, 420)">
+    <!-- Golden Geometric diamond -->
+    <polygon points="0,-130 90,0 0,130 -90,0" fill="none" stroke="#C5A059" stroke-width="1.5" opacity="0.8"/>
+    <polygon points="0,-115 80,0 0,115 -80,0" fill="#2A0B12" stroke="#C5A059" stroke-width="0.75" opacity="0.4"/>
+    
+    <!-- Quill Icon -->
+    <path d="M 0 -70 C 15 -40 25 10 0 60 C -5 45 -5 20 -2 -10 Z" fill="#D4AF37"/>
+    <path d="M 0 -70 L 0 80" stroke="#FAF7F2" stroke-width="1.2"/>
+    
+    <!-- Sudden lightning streak / flash -->
+    <path d="M -40 -30 L 20 -5 L -10 15 L 45 45" stroke="#FFFFFF" stroke-width="2.5" fill="none" opacity="0.9" filter="drop-shadow(0 0 8px #FFD700)"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="300" y="130" font-family="'Cinzel', serif" font-size="12" letter-spacing="6" fill="#C5A059" text-anchor="middle">STORIES UNDER 500 WORDS</text>
+  <line x1="220" y1="145" x2="380" y2="145" stroke="#C5A059" stroke-width="0.8" opacity="0.5"/>
+
+  <text x="300" y="220" font-family="'Playfair Display', Georgia, serif" font-size="54" font-weight="800" fill="#FAF7F2" text-anchor="middle" letter-spacing="1">FLASH</text>
+  <text x="300" y="280" font-family="'Cinzel', Georgia, serif" font-size="42" font-weight="700" fill="#D4AF37" text-anchor="middle" letter-spacing="6">PACK</text>
+
+  <text x="300" y="650" font-family="Georgia, serif" font-style="italic" font-size="15" fill="#E8DFC8" text-anchor="middle">“Every sentence a spark. Every ending an ambush.”</text>
+  
+  <text x="300" y="690" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" letter-spacing="2" fill="#C5A059" text-anchor="middle">EVINCEPUB PUBLISHING</text>
+
+  <rect x="170" y="770" width="260" height="46" fill="#1B060B" rx="3" stroke="#C5A059" stroke-width="1.2"/>
+  <text x="300" y="799" font-family="'Cinzel', Georgia, serif" font-size="15" letter-spacing="4" fill="#FFFFFF" text-anchor="middle" font-weight="700">BIDISHA BHATTACHARYYA</text>
+</svg>

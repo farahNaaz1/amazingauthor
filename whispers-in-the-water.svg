@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1118"/>
+      <stop offset="45%" stop-color="#142129"/>
+      <stop offset="85%" stop-color="#3a111a"/>
+      <stop offset="100%" stop-color="#08080a"/>
+    </linearGradient>
+    <radialGradient id="waterGlow" cx="50%" cy="60%" r="55%">
+      <stop offset="0%" stop-color="#2a5866" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#1a2e38" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="3" result="noise"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.08 0"/>
+      <feBlend mode="multiply" in="SourceGraphic" in2="noise"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <rect width="600" height="900" fill="url(#waterGlow)"/>
+
+  <!-- Ornate Border Frame -->
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="#c5a059" stroke-width="1.5" stroke-opacity="0.5"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="#c5a059" stroke-width="0.75" stroke-opacity="0.3" stroke-dasharray="6,4"/>
+
+  <!-- Corner Flourishes -->
+  <path d="M 40 60 L 60 40 M 40 40 L 40 70 M 40 40 L 70 40" stroke="#c5a059" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 560 60 L 540 40 M 560 40 L 560 70 M 560 40 L 530 40" stroke="#c5a059" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 40 840 L 60 860 M 40 860 L 40 830 M 40 860 L 70 860" stroke="#c5a059" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 560 840 L 540 860 M 560 860 L 560 830 M 560 860 L 530 860" stroke="#c5a059" stroke-width="1.5" fill="none" opacity="0.7"/>
+
+  <!-- Water Ripple Silhouette Art -->
+  <g opacity="0.45" stroke="#7ec8d9" stroke-width="1.2" fill="none">
+    <ellipse cx="300" cy="550" rx="200" ry="40"/>
+    <ellipse cx="300" cy="555" rx="160" ry="32"/>
+    <ellipse cx="300" cy="560" rx="120" ry="24"/>
+    <ellipse cx="300" cy="565" rx="70" ry="15"/>
+    <path d="M 300 370 Q 302 460 300 560" stroke="#7ec8d9" stroke-width="1.5" stroke-opacity="0.6"/>
+    <!-- Water Drop -->
+    <path d="M 300 350 C 295 362 290 375 300 382 C 310 375 305 362 300 350 Z" fill="#c5a059" opacity="0.8"/>
+  </g>
+
+  <!-- Ghostly Submerged Silhouette -->
+  <path d="M 285 530 C 275 490 290 460 300 450 C 310 460 325 490 315 530 C 310 545 290 545 285 530 Z" fill="#132730" opacity="0.85"/>
+  <circle cx="300" cy="435" r="14" fill="#132730" opacity="0.85"/>
+
+  <!-- Fog / Tendrils -->
+  <path d="M 100 620 Q 250 590 400 640 T 520 610" stroke="#5b8896" stroke-width="1.5" fill="none" opacity="0.25"/>
+  <path d="M 80 670 Q 220 630 360 670 T 540 650" stroke="#7b2235" stroke-width="2" fill="none" opacity="0.3"/>
+
+  <!-- Author Top Label -->
+  <text x="300" y="110" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-size="14" letter-spacing="6" fill="#c5a059" text-anchor="middle" font-weight="600">A CHILLING HORROR STORY</text>
+  <line x1="220" y1="125" x2="380" y2="125" stroke="#c5a059" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Title -->
+  <text x="300" y="210" font-family="'Playfair Display', Georgia, serif" font-size="46" font-style="italic" fill="#ffffff" text-anchor="middle" font-weight="700">Whispers</text>
+  <text x="300" y="260" font-family="'Cinzel', Georgia, serif" font-size="20" letter-spacing="10" fill="#c5a059" text-anchor="middle" font-weight="600">IN THE</text>
+  <text x="300" y="325" font-family="'Playfair Display', Georgia, serif" font-size="52" fill="#e8dfc8" text-anchor="middle" font-weight="700" letter-spacing="2">WATER</text>
+
+  <!-- Tagline quote -->
+  <text x="300" y="730" font-family="Georgia, serif" font-style="italic" font-size="14" fill="#a8b2b7" text-anchor="middle" opacity="0.85">“Some waters reflect your face; others reveal what lurks beneath.”</text>
+
+  <!-- Author Name -->
+  <rect x="180" y="775" width="240" height="42" fill="#0c151a" rx="4" stroke="#c5a059" stroke-width="1" opacity="0.9"/>
+  <text x="300" y="802" font-family="'Cinzel', Georgia, serif" font-size="15" letter-spacing="5" fill="#f5efeb" text-anchor="middle" font-weight="700">BIDISHA</text>
+  <text x="300" y="845" font-family="Georgia, serif" font-size="11" letter-spacing="4" fill="#c5a059" text-anchor="middle" opacity="0.85">BHATTACHARYYA</text>
+</svg>
